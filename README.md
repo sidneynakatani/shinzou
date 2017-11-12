@@ -2,11 +2,13 @@
 
 Project to study about heart frequency using sensor.
 
+To see the sensor working, click on [Youtube link](https://www.youtube.com/watch?v=foVsz0fS2Q4)
+
 ## Getting Started
 
 > git clone https://github.com/sidneynakatani/shinzou.git
 
-> Compile and transfer to Arduino.
+> Compile and transfer '../arduino/frequencyMeter.ino' code to Arduino.
 
 ### Materials
 
@@ -39,3 +41,9 @@ Project to study about heart frequency using sensor.
 ## Authors
 
 - Sidney Nakatani / Initial work
+
+## Changelog
+
+> Ver. 1.0.0 
+
+* Initial Release.
