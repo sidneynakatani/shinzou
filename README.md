@@ -1,6 +1,6 @@
 # Shinzou
 
-Project to study about heart frequency using sensor.
+Project to study heart frequency using sensor.
 
 To see the sensor working, click on [Youtube link](https://www.youtube.com/watch?v=foVsz0fS2Q4)
 
